@@ -3,6 +3,13 @@ plugins {
     alias(libs.plugins.kotlin.android)
 }
 
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(11))  // Replace with your desired Java version
+    }
+}
+
+
 android {
     namespace = "io.tradermade.client_jvm"
     compileSdk = 34
