@@ -23,7 +23,7 @@ class TraderMadeAPI(private val apiKey: String) {
         connection.requestMethod = "GET"
 
         BufferedReader(InputStreamReader(connection.inputStream)).use { reader ->
-            var data = reader.readText()
+            val data = reader.readText()
             println(data)
             return data
         }
