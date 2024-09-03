@@ -23,3 +23,5 @@ dependencyResolutionManagement {
 rootProject.name = "client-jvm"
 include(":app")
 include(":client-tms-jvm")
+
+
