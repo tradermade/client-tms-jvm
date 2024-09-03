@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        // Replace "YOUR_API_KEY" with your actual API key V1.0
+        // Replace "YOUR_API_KEY" with your actual API key V 1.0
         val api = TraderMadeAPI("API_KEY")
 
         // Launch a coroutine to perform the network operations
