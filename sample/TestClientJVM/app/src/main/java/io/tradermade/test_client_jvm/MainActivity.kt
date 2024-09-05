@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
 
         // Replace "YOUR_API_KEY" with your actual API key
-        val api = TraderMadeAPI("CxbJIkb_B2jpfUg3jnJp")
+        val api = TraderMadeAPI("YOUR_API_KEY")
 
         // Launch a coroutine to perform the network operations
         CoroutineScope(Dispatchers.IO).launch {
