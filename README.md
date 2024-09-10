@@ -24,17 +24,17 @@ Step 2. Add the dependency
 	}
 
 
-Please see the GitHub relase for the current version to repalce the tag place holder.
+Please see the GitHub release for the current version to repalce the tag place holder.
 
 <h2>Getting Started</H2>
 
-To request real-time and historical market rates from marketdata.tradermade.com, you will need to sign up from a free accout at https://tradermade.com/signup and then navigte to the https://tradermade.com/dashboard page to obtain your API key. 
+To request real-time and historical market rates from marketdata.tradermade.com, you will need to sign up for a free accout at https://tradermade.com/signup and then navigate to the https://tradermade.com/dashboard page to obtain your API key. 
 
-Before running the sample app you will need to insert you api key into the MainActivity.kt file.
+Before running the sample app you will need to insert your api key into the MainActivity.kt file.
 
     val api = TraderMadeAPI("YOUR_API_KEY")
 
-Once you have insert you key you can start using the API, this includes the following functionality:
+Once you have insert your key you can start using the API, this includes the following functionality:
 
 
 # TraderMade REST API Endpoints Overview
