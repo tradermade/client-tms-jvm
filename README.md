@@ -1,9 +1,9 @@
-<h1> TraderMade JVM Client written in Kotlin - RESTful APIs </h1>
+# TraderMade JVM Client written in Kotlin - RESTful APIs 
 
-<b>Welcome to the official JVM client library SDK for the TraderMade REST and WebSocket API, crafted in Kotlin. This SDK is compatible with any JVM language, including Android SDK version 21 and above. To begin, please refer to the Getting Started section in our documentation and explore the sample directory for code examples.</b>
+## Welcome to the official JVM client library SDK for the TraderMade REST and WebSocket API, crafted in Kotlin. This SDK is compatible with any JVM language, including Android SDK version 21 and above. To begin, please refer to the Getting Started section in our documentation and explore the sample directory for code examples.
 
 
-<h2>Install<h2>
+## Install
 
 To use the SDK in a Gradle project:
 
@@ -26,7 +26,7 @@ Step 2. Add the dependency
 
 Please see the GitHub release for the current version to repalce the tag place holder.
 
-<h2>Getting Started</H2>
+## Getting Started
 
 To request real-time and historical market rates from marketdata.tradermade.com, you will need to sign up for a free accout at https://tradermade.com/signup and then navigate to the https://tradermade.com/dashboard page to obtain your API key. 
 
