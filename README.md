@@ -28,7 +28,7 @@ Please see the GitHub release for the current version to repalce the tag place h
 
 ## Getting Started
 
-To request real-time and historical market rates from marketdata.tradermade.com, you will need to sign up for a free accout at https://tradermade.com/signup and then navigate to the https://tradermade.com/dashboard page to obtain your API key. 
+To request real-time and historical market rates from marketdata.tradermade.com, you will need to sign up for a free accout at https://tradermade.com/signup and then navigate to the https://tradermade.com/dashboard page to obtain your API key. Learn more about our Forex api at https://tradermade.com/forex.
 
 Before running the sample app you will need to insert your api key into the MainActivity.kt file.
 
